@@ -1,0 +1,9 @@
+path:  ../../ata3
+
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 2
+names: ['Seat_Belt', 'Without_Seat_Belt']
+
